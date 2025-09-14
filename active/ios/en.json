@@ -1,6 +1,6 @@
 {
   "id":0,
-  "isActive":true,
+  "isActive":false,
   "isCritical":true,
   "title":"Server maintenance",
   "message":"Server is down, we're working on it.."
